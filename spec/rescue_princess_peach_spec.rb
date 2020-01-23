@@ -6,4 +6,3 @@ describe do
     expect{puts status}.to raise_error(NameError)
   end 
 end
-lib/rescue_princess_peach.rb
